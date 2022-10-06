@@ -1,1 +1,1 @@
-A shell task!
+Display the contents list of your current directory.
