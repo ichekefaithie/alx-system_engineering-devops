@@ -1,1 +1,4 @@
-Write a script that changes the owner of the file hello to the user betty.
+Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+
+The file hello will be in the working directory
+You are not allowed to use commas for this script
